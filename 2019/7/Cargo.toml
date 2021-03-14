@@ -1,0 +1,11 @@
+[package]
+name = "advent-of-code-2019"
+version = "0.1.0"
+default-run = "7"
+
+[dependencies]
+itertools = "0.9.0"
+
+[[bin]]
+name = "7"
+path = "./7.rs"

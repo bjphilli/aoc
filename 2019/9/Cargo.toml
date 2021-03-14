@@ -1,0 +1,11 @@
+[package]
+name = "advent-of-code-2019"
+version = "0.1.0"
+default-run = "9"
+
+[dependencies]
+
+
+[[bin]]
+name = "9"
+path = "./9.rs"
